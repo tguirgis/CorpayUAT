@@ -21,11 +21,11 @@
 						      	"value": "tguirgis@testemail.com.invalid",
 						      	"isEditableByEndUser": true
 						    	},
-							"_FirstName": {
+							"_firstName": {
 						      	"value": "Tony",
 						      	"isEditableByEndUser": true
 						    	},
-		 					"_LastName": {
+		 					"_lastName": {
 						      	"value": "Guirgis",
 						      	"isEditableByEndUser": true
 						    	}
