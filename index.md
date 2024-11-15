@@ -20,6 +20,14 @@
 		 					"_email": {
 						      	"value": "tguirgis@testemail.com.invalid",
 						      	"isEditableByEndUser": true
+						    	},
+							"_FirstName": {
+						      	"value": "Tony",
+						      	"isEditableByEndUser": true
+						    	},
+		 					"_LastName": {
+						      	"value": "Guirgis",
+						      	"isEditableByEndUser": true
 						    	}
 		 				  });
 						});
