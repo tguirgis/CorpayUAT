@@ -33,20 +33,21 @@
 						});
 
 			embeddedservice_bootstrap.init(
-				'00DDk00000096DG',
-				'NAT_Chat_Web',
-				'https://fleetcorna--uat.sandbox.my.site.com/ESWNATChatWeb1730393482019',
-				{
-					scrt2URL: 'https://fleetcorna--uat.sandbox.my.salesforce-scrt.com'
-				}
-			);
-		} catch (err) {
-			console.error('Error loading Embedded Messaging: ', err);
-		}
-	};
-</script>
-<script type='text/javascript' src='https://fleetcorna--uat.sandbox.my.site.com/ESWNATChatWeb1730393482019/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+                                                            '00DVF00000ASfTt',
+                                                            'NAT_Chat_Web',
+                                                            'https://fleetcorna--uat.sandbox.my.site.com/ESWNATChatWeb1730916725514',
+                                                            {
+                                                                           scrt2URL: 'https://fleetcorna--uat.sandbox.my.salesforce-scrt.com'
+                                                            }
+                                             );
+                              } catch (err) {
+                                             console.error('Error loading Embedded Messaging: ', err);
+                              }
+               };
 
+</script>
+
+<script type='text/javascript' src='https://fleetcorna--uat.sandbox.my.site.com/ESWNATChatWeb1730916725514/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 </body>
 </html> 
